@@ -12,7 +12,7 @@ studio
 
 nuevo cambio para conflicto en github
 
-conflicto vscode
+conflicto vscode123455
 
 conflicto vscode...kkkkkkkkk
 

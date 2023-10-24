@@ -11,3 +11,5 @@ VISUAL
 studio
 
 nuevo cambio para conflicto en github
+
+conflicto vscode
